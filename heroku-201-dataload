@@ -1,0 +1,1 @@
+\copy users ( surname_ja, givenname_ja, surname_kana, givenname_kana, surname_en, givenname_en, gender, phonenumber, email, birthday, membershipnumber) from 'heroku-201-data.csv' with csv
